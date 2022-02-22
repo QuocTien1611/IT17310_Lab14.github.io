@@ -1,0 +1,45 @@
+.boxcenter {
+     width: 80%;
+     margin: 0px auto;
+}
+.boxleft{
+    float: left;
+   
+    width: calc(70% - 20px) ;
+   min-height: 600px;
+    margin: 20px;
+
+}
+.boxright{
+    float: left;
+   
+    width: 30%;
+   min-height: 600px;
+  
+}
+.boxleft img{
+    float: left;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+hr{
+    clear: both;
+}
+a{
+    text-emphasis: none;
+    font-size: 20pt;
+    color: #f00;
+}
+a:hover{
+    color: #f00;
+}
+span{
+    font-size: 13pt;
+    font-weight: 5px;
+    justify-content: center;
+}
+.boxright{
+    float: left;
+    width: 100%;
+}

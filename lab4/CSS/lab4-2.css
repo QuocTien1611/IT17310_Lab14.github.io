@@ -1,0 +1,21 @@
+.menu>a{
+    Font-variant:small-caps; /*làm chữ hoa to nhỏ*/
+    Color:blue;
+    Text-decoration:none; /*làm mất dấu gạch chân*/
+    margin-right: 15px;
+    font-size: 25px;
+    text-align:center;
+}
+.menu>a {
+    color: green;
+    text-decoration: none;
+}
+   
+.menu>a:visited{
+    Color:blue;
+}
+
+.menu>a:hover{
+    Color:red;
+    Text-decoration:underline;
+}
